@@ -4,12 +4,12 @@
 
 ### About Me
 
-- 🔭 I’m currently working on improving my web development skills and building innovative projects.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.
-- 👯 I’m looking to collaborate on open-source projects related to web development and AI.
+- 🔭 I’m currently working on improving my Python skills and building innovative projects.
+- 🌱 I’m currently learning advanced Python frameworks like Django and Fast API.
+- 👯 I’m looking to collaborate on open-source projects related to Python development.
 - 🤔 I’m looking for help with understanding complex algorithms and data structures.
-- 💬 Ask me about web development, JavaScript, and AI.
-- 📫 How to reach me: [Your Email](sobirjonabdumajid@gmail.com)
+- 💬 Ask me about Python, web development, and AI.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sobirjon-abdumajidov-632659270/), [Telegram](https://t.me/fikrboy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places in my free time.
 
@@ -23,25 +23,23 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sobirjon-abdumajidov-632659270/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=blue)](https://t.me/fikrboy)
 
 ### Projects
 
-#### Project Name
-- Description: Brief description of your project.
-- Technologies: HTML, CSS, JavaScript, React
-- [GitHub Repository](https://github.com/SobirjonAbdumajid/project-name)
+#### Fast API projects
+1. **Fast API codes**
+   - Description: A simple and powerful blogging platform built with Fast API, providing features like post creation, commenting, and user authentication.
+   - Technologies: Python, Fast API, Pydantic, SQLAlchemy, SQLite
+   - [GitHub Repository](https://github.com/SobirjonAbdumajid/fast-api-blog)
+   - [GitHub Repository](https://github.com/SobirjonAbdumajid/udemy-courses)
 
-#### Project Name
-- Description: Brief description of your project.
-- Technologies: HTML, CSS, JavaScript, Node.js
-- [GitHub Repository](https://github.com/SobirjonAbdumajid/project-name)
 
-### Blog Posts
+#### Django projects
+1. **Django E-commerce Platform**
+   - Description: A comprehensive e-commerce platform with features like product listings, shopping cart, user authentication, and order management.
+   - Technologies: Python, Django, PostgreSQL
+   - [GitHub Repository](https://github.com/SobirjonAbdumajid/Django-Projects)
 
-<!-- BLOG-POST-LIST:START -->
-- [Title of the Blog Post](https://yourblog.com/title-of-the-blog-post)
-- [Title of the Blog Post](https://yourblog.com/title-of-the-blog-post)
-<!-- BLOG-POST-LIST:END -->
 

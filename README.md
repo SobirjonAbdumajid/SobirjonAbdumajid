@@ -1,131 +1,102 @@
-# SOBIRJON ABDUMAJIDOV
-### Software Developer
+# **Sobirjon Abdumajidov** 
+**Software Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white)](https://t.me)
+---
+
+## 🌍 Contact & Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjonabdumajid/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sobirjonabdumajid)
   
----
-
-## Contact
-• Phone: +998885430305  
-• Email: [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com)  
-• Location: Tashkent, Uzbekistan
+**Phone:** +998885430305  
+**Email:** [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com)  
+**Location:** Tashkent, Uzbekistan
 
 ---
 
-## Profile Summary
-Second-year university student and Assistant Mentor at PDP Junior, advancing studies in Software Engineering at PDP University. Working at Nextin Web Studio as a software developer with hands-on experience in Python-based backend technologies and DevOps practices.
+## 🏫 Education
+- **PDP University** – Bachelor of Software Engineering (2023 - Expected 2027)
+  - Recipient of 2-year scholarship for outstanding academic performance
 
 ---
 
-## Education
-- **PDP University** (Bachelor of Software Engineering)  
-  2023 - Expected 2027
-
-- **PDP Academy** (Python Backend Bootcamp)  
-  2024 - 2025
-
-- **Udemy Course** (FastAPI - The Complete Course [Beginner + Advanced])  
-  2025
+## 💼 Profile Summary
+Second-year university student at PDP University and Assistant Mentor at PDP Junior. Experienced in software development using Python frameworks (FastAPI, Django, and Flask) with a strong focus on backend architecture, databases (PostgreSQL, MySQL, SQLite), and scalable deployment strategies (Docker, Nginx, CI/CD). Currently working at Nextin Web Studio; developed backend systems using microservices architecture. Skilled in project management with Jira, leadership, and collaboration.
 
 ---
 
-## Skills
+## 🛠️ Skills
+- **Programming:** Python (FastAPI, Django, Flask)  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **DevOps & Deployment:** Docker, Docker Compose, Nginx, Gunicorn/Uvicorn, Git & GitHub, CI/CD (GitHub Actions), Redis  
+- **Web Development:** HTML, CSS, React (basic)  
+- **Testing & Automation:** Pytest, Selenium  
+- **Project Management & Collaboration:** Jira, Scheduling & Budgeting, Team Leadership & Collaboration  
 
-- **Programming & Frameworks**  
-  Python (FastAPI, Django, Flask)
-
-- **Databases**  
-  PostgreSQL, MySQL, SQLite
-
-- **DevOps & Deployment**  
-  Docker & Docker Compose, Nginx, Gunicorn/Uvicorn, Redis for caching/task queueing
-
-- **CI/CD & Version Control**  
-  Git & GitHub, GitHub Actions
-
-- **Frontend**  
-  HTML, CSS, React
-
-- **Testing & Automation**  
-  Pytest, Selenium
-
-- **Project Management & Collaboration**  
-  Jira, Team Leadership & Collaboration
-
-- **Languages**  
-  Uzbek (Native), English (B2)
+**Languages:**  
+- Uzbek (native)  
+- English (B2)
 
 ---
 
-## Awards
-- Recipient of PDP University Scholarship (2 years) for academic excellence  
-- 3rd place in PDP University IT Innovations Startup Competition
+## 🎯 Work Experience
 
----
-
-## Work Experience
-
-### Nextin Web Studio (October 2024 - Present)  
+### Nextin Web Studio (October 2024 - Present)
 **Software Developer**  
-• Developed and maintained backend applications using FastAPI and Django  
-• Designed database architectures and optimized them for performance  
-• Led projects like FelixZoo and Code School  
+- Developed and maintained backend applications using FastAPI and Django  
+- Designed and optimized database architectures for scalability and performance  
+- Collaborated in microservices-based system design for improved modularity  
 
-### PDP Ecosystem (October 2024 - November 2024)  
-**Data Analyst**  
-• Managed and analyzed student data from PDP University and PDP Academy  
-• Utilized Bitrix24 for data processing and visualization  
-
-### PDP Junior (May 2025 - Present)  
+### PDP Junior (May 2025 - Present)
 **Assistant Mentor**  
-• Taught Python programming to students under 15  
-• Covered Python libraries (aiogram, OpenCV, etc.), fundamental concepts, and object-oriented programming  
+- Teaching Python fundamentals and libraries (aiogram, OpenCV, etc.) to students (under age 15)  
+- Guiding students in programming concepts, from core syntax to OOP principles  
+
+### PDP Ecosystem (October 2024 - November 2024)
+**Data Analyst**  
+- Processed and analyzed PDP University and PDP Academy student data  
+- Utilized Bitrix24 for streamlined data handling and reporting  
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### FelixZoo
-• Built with Django, Django REST Framework, PostgreSQL, Nginx, and Insomnia  
-• Designed and optimized the database for API performance  
-• Implemented unit tests for continuous reliability  
+- **Stack:** Django, Django REST Framework, PostgreSQL, Nginx, Insomnia  
+- Developed API for a zoo market, focusing on clean architecture and performance  
+- Wrote unit tests for reliability; optimized database design for faster queries  
 
 ### Code School
-• Improved overall project structure for maintainability  
-• Optimized database performance for efficient query execution  
-• Addressed security by appropriately handling sensitive data  
-
-### Personal Blog Site
-• Created user authentication and content management features  
-• Designed and set up the database structure  
+- **Stack:** Django (Improved project structure and security), MySQL  
+- Enhanced database performance through query optimizations  
+- Strengthened security by managing sensitive data properly  
 
 ### 1Tech
-• Developed and tested APIs in a microservices-based architecture for scalability  
+- **Stack:** FastAPI, Docker, Microservices  
+- Built APIs focusing on reliability and testing  
+- Implemented microservices-based architecture for effortless scalability  
+
+### Personal Blog Site
+- **Stack:** FastAPI, SQLite  
+- Created content management features and a user authentication system  
+- Streamlined blogging platform for reading and publishing articles  
 
 ---
 
-## GitHub Stats
-![Sobirjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaxzodbek16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Sobirjon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaxzodbek16&theme=dark&hide_border=false)<br/>
-![Sobirjon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxzodbek16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 Awards & Achievements
+- **Two-Year Scholarship** at PDP University for academic excellence  
+- **3rd Place in PDP University Startup Competition** (IT innovations)  
 
 ---
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 📊 GitHub Stats
+![Sobirjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SobirjonAbdumajid&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SobirjonAbdumajid&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobirjonAbdumajid&layout=compact&theme=dark&hide_border=false)
 
 ---
 
-### Thanks for visiting my profile!
+### ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=SobirjonAbdumajid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)

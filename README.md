@@ -113,4 +113,4 @@ Second-year university student at PDP University and Assistant Mentor at PDP Jun
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=sobirjonabdumajid&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SobirjonAbdumajid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)

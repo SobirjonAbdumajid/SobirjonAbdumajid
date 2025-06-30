@@ -4,7 +4,7 @@
 ---
 
 ## 🌍 Contact & Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjonabdumajid/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sobirjonabdumajid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjon-abdumajidov/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sobirjonabdumajid)
   
 **Phone:** +998885430305  
 **Email:** [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com)  

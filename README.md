@@ -47,7 +47,7 @@ Second-year university student at PDP University and Assistant Mentor at PDP Jun
 
 **Languages:**  
 - Uzbek (native)  
-- English (B2)
+- English (upper-intermediate)
 
 ---
 

@@ -1,93 +1,62 @@
-# **Sobirjon Abdumajidov** **Backend Developer | Software Engineering Student**
+# **Sobirjon Abdumajidov** **DevOps Aspirant | Open Source Contributor**
 
 ---
 
-## 🌍 Contact & Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjon-abdumajidov/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sobirjon_Abdumajidov)
-  
-**Phone:** +998 88 543 0305 | +7 747 571 0371
-**Email:** [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com)  
-**Location:** Tashkent, Uzbekistan
+## 🌍 Current Location & Mobility
+📍 **Astana, Kazakhstan** | **Nazarbayev University (NU)**
+* Participating in the **Academic Mobility Program** (Spring 2026).
+* Current Focus: **Open Source Software** & Infrastructure as Code.
 
 ---
 
-## 🏫 Education
-- **PDP University** – Bachelor of Software Engineering (2023 - 2027)
-  - **GPA: 3.9/4.0**
-  - Focus: Python Backend, Databases, and System Architecture
-  - Recipient of 2-year scholarship for academic excellence
-- **Certifications:**
-  - FastAPI – The Complete Course 2025 (Udemy)
-  - Python Backend Bootcamp (PDP Academy)
+## 🚀 DevOps & Open Source
+* **Currently Contributing to:** [k9s](https://github.com/derailed/k9s) - A powerful terminal UI for managing Kubernetes clusters.
+* **Learning Path:** Kubernetes (K8s), Go (Golang), and DevSecOps security standards.
+* **Core Philosophy:** Automate everything. Secure the pipeline..
 
 ---
 
-## 💼 Profile Summary
-Results-driven **Backend Team Lead** and Software Engineering student with a strong foundation in scalable architecture. Experienced in leading development teams to build high-performance marketplaces and management systems. Expert in **Python (FastAPI, Django)** and **PostgreSQL**, with a proven track record of optimizing database performance and containerizing microservices for production.
-
----
-
-## 🛠️ Skills
-
-- **Backend:** Python (FastAPI, Django, Flask), REST API Design, Clean Code Architecture
-- **Databases:** PostgreSQL (ERD Design & Optimization), MySQL, SQLite, Redis
-- **DevOps:** Docker, Docker Compose, Nginx, Linux (Ubuntu), GitHub Actions (CI/CD)
-- **Tools:** Jira (Agile/Scrum), Postman, Git, Bitrix24
-- **Soft Skills:** Team Leadership, Mentorship, Project Management, Startup Strategy
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Languages:** - Uzbek (Native) | English (Upper-Intermediate)
-
----
-
-## 🎯 Work Experience
+## 💼 Professional Experience
 
 ### Nextin Web Studio (October 2024 - December 2025)
-**Software Developer (Team Lead)** - **Templify.uz:** Led the backend team in developing a template marketplace for the Uzbek market.
-- Designed complex **ERD schemas** for notifications, reviews, and user settings.
-- Optimized PostgreSQL queries, significantly reducing database load during peak traffic.
-- Advanced the project to the **Startup Garage** finals, securing potential funding of **$20k-$30k**.
-- Conducted technical interviews and mentored junior developers to improve team velocity.
+**Backend Team Lead & Deployment Specialist**
+* **Lead Architect:** Guided a backend team to build scalable systems, securing potential funding of **$20k-$30k** through Startup Garage.
+* **Server & Deployment:** Expertly deployed and managed production servers for:
+    * **Frameworks:** FastAPI, Django, Odoo.
+    * **Frontend:** React, Next.js.
+* **Infrastructure:** Implemented containerized environments using **Docker** and **Docker Compose**, ensuring 100% environment consistency across development and production.
+* **Database:** Designed complex ERD schemas and optimized PostgreSQL/MySQL performance for high-traffic marketplace applications.
 
 ### PDP Junior (May 2025 - Present)
-**Assistant Mentor** - Guiding the next generation of developers (under 15) in Python, OOP, and OpenCV.
-
-### PDP Ecosystem (May 2024 - September 2024)
-**Orientation Week & TechFest Mentor**
-- Mentored 1st-year teams in startup ideation; led the "United Stores" project to **3rd Place** in the university competition.
-- Introduced Project Management (PM) methodologies to students across the PDP ecosystem.
+**Assistant Mentor**
+* Teaching Python, OOP, and automation principles to the next generation of engineers.
 
 ---
 
-## 🚀 Key Projects
+## 🛠️ Technical Toolkit
 
-### FelixZoo (feliks.uz)
-- **Stack:** FastAPI, PostgreSQL, SMS Integration
-- Built a secure ticketing and management backend for zoo operations.
-- Implemented SMS-based authentication and high-security API endpoints.
-
-### Code School
-- **Stack:** Django, MySQL
-- Focused on database security and query optimization for an educational platform.
+- **Infrastructure:** Docker, Nginx, Linux (Ubuntu), Git, GitHub Actions (CI/CD)
+- **Programming:** Python (Expert), Go (Learning), SQL, Bash
+- **Tools:** k9s, Kubernetes, Postman, Jira, Bitrix24
+- **Security:** DevSecOps mindset, focusing on secure API design and container hardening.
 
 ---
 
-## 🏆 Awards
-- **3rd Place** - PDP University Startup Competition (IT Innovations)
-- **Academic Scholarship** - Two-time recipient for top-tier performance.
+## 🏫 Education & Awards
+- **PDP University** – B.S. in Software Engineering (Expected 2027) | **GPA: 3.9/4.0**
+- **Scholarships:** Two-year scholarship recipient for academic excellence.
+- **Awards:** 3rd Place in PDP University Startup Competition.
 
 ---
 
 ## 📊 GitHub Stats
-![Sobirjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SobirjonAbdumajid&show_icons=true&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobirjonAbdumajid&layout=compact&theme=dark&hide_border=false)
+![Sobirjon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SobirjonAbdumajid&show_icons=true&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SobirjonAbdumajid&layout=compact&theme=dark&hide_border=false)
 
 ---
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjon-abdumajidov/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sobirjon_Abdumajidov)
+📧 [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com) | 📞 +998 88 543 0305 | +7 747 571 0371
 
 [![](https://visitcount.itsvg.in/api?id=SobirjonAbdumajid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
